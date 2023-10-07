@@ -1,0 +1,31 @@
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 20px
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+.name {
+  font-size: 16px; 
+  font-weight: bold;
+}
+
+
+hr {
+  margin: 10px 0px 10px 0px;
+}
+
+ol {
+  margin-top: 2px; 
+  margin-left: 20px;
+}
